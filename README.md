@@ -4,7 +4,7 @@
 This page is about a hypothetical software which allows the 3D graphic designers, engineers etc to render their project on cloud servers. To promote this product, this particular page was made. Responsive as in when this site is viewed from different aspect ratios or devices, the website would still look intact without many problems! This site is inspired by TinDog, using the same concepts I could build my own site.
 
 
-Bootstrap-5
+## Bootstrap-5
 Used bootstrap-5 framework for making the page responsive and other things: 
 * Navigation Bar
 * Cards for pricing plans
